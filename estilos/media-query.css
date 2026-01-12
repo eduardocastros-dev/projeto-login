@@ -16,6 +16,7 @@ Grandes telas: acima de 1921px
     }
     section#login{
         width: 80vw;
+        height: 320px;
     }
     section > div#imagem{
         float: left;
@@ -28,6 +29,7 @@ Grandes telas: acima de 1921px
     }
     div#formulario > p {
         font-size: 0.9em;
+        padding: 10px 0px;
     }
 }
 
@@ -37,14 +39,15 @@ Grandes telas: acima de 1921px
     }
     section#login{
         width: 950px;
+        height: 340px;
     }
     section > div#imagem{
-        float: left;
+        float: right;
         width: 50%;
         height: 100%;
     }
     section > div#formulario{
-        float: right;
+        float: left;
         width: 50%;
     }
     div#formulario > h1{
@@ -52,5 +55,6 @@ Grandes telas: acima de 1921px
     }
     div#formulario > p {
         font-size: 1em;
+        padding: 20px 0px;
     }
 }
